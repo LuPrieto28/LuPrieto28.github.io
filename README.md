@@ -14,11 +14,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Github:** https://    (url https://github.com/.... )
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Lucía Prieto
 
 **Resumen** : lorem ipsun dolor.... 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego con historia
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
