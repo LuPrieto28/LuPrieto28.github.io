@@ -12,8 +12,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   https://    (url github.io)
 
-**Github:** https://    (url https://github.com/.... )
-
+**Github:** https://    (url https://github.com/LuPrieto28/LuPrieto28.github.io/tree/main)
 **Autor:**  Lucía Prieto
 
 **Resumen** : Historia de una sirena que necesia ayuda para recuperar su cofre.
@@ -41,8 +40,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Twitter
 - Instagram
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
