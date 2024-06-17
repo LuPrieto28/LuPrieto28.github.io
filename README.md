@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : MI Proyecto Mermaid story
 
 **Web:**   https://    (url github.io)
 
@@ -16,7 +16,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Lucía Prieto
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Historia de una sirena que necesia ayuda para recuperar su cofre.
 
 **Estilo/género:**  Juego con historia
 
@@ -24,16 +24,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px tamaño fijo 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**    Google Chrome 
 
 **Tamaño proyecto:** XXMB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
         (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
 
-**Fecha** : xx/xx/2024
+**Fecha** : 17/06/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -109,13 +109,13 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+He tenido problemas con la realizacipn de pistas en el juego de adivinar el número.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Nunca había programado nada y esta asignatura me ha abierto puertas para poder usar este recurso en un futuro. Una esperiencia enriquecedora y muy interesante.
 
 
 
